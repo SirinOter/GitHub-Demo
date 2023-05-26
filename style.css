@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Montserrat&family=Poppins&display=swap');
+
+h1{
+    font-family: 'Poppins', sans-serif;
+}
+*{
+    background-color: antiquewhite;
+}
+h1{
+    margin: 0;
+    margin: 50px 25px 50px 25px;
+    padding: 50px 25px 50px 25px;
+    border: 5px solid black;
+    text-align: center;
+    margin-left: 50px;
+}
+#Uten{
+    background-color: burlywood;
+}
+h2{
+    color: rgb(110, 68, 38);
+    background-color: darksalmon;
+}
+.about{
+    background-color: rgb(37, 36, 29);
+}
